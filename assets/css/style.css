@@ -571,7 +571,9 @@
 .benefit_arrow {
     position: absolute;
     bottom: -30px;
-    left: -64px
+    left: -64px;
+    -webkit-animation: 5s linear infinite normal none running arrow;
+    animation: 5s linear infinite normal none running arrow;
 }
 
 .pink_chart:hover {
@@ -615,6 +617,8 @@
         position: absolute;
         top: 274px;
         right: 900px;
+        -webkit-animation: 5s linear infinite normal none running arrow;
+        animation: 5s linear infinite normal none running arrow;
     }
 
     .slider_bg {
@@ -912,6 +916,8 @@ img.white_left_img,
     position: absolute;
     top: 5px;
     right: 5%;
+    -webkit-animation: 5s linear infinite normal none running arrow;
+    animation: 5s linear infinite normal none running arrow;
 }
 
 .roadmap_right {
@@ -924,6 +930,8 @@ img.white_left_img,
     position: absolute;
     top: -28px;
     right: 116px;
+    -webkit-animation: 5s linear infinite normal none running arrow;
+    animation: 5s linear infinite normal none running arrow;
 }
 
 .tock_left {
@@ -941,6 +949,8 @@ img.white_left_img,
 .toko_arrow {
     top: 644px;
     left: -32px;
+    -webkit-animation: 5s linear infinite normal none running arrow;
+    animation: 5s linear infinite normal none running arrow;
 }
 
 .footer_left_shadow {
