@@ -380,16 +380,14 @@
     overflow: hidden;
 }
 
-.outline_btn {
+.border_btn {
     border: 1px solid #FFFFFF;
     border-radius: 40px;
     padding: 13px 23px;
     transition: all .3s linear;
 }
 
-.outline_btn:hover {
-    transform: translateY(-7px);
-}
+
 
 .header_center_right_img {
     position: absolute;
