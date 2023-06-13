@@ -112,6 +112,14 @@
     border: 2px solid #FFFFFF;
 
 }
+.orange_btn:hover{
+    border: 1px solid #FFFFFF;
+    background: #FF983B;
+    color: #FFFFFF;
+        border-radius: 40px;
+        padding: 13px 23px;
+        transition: all .3s linear;
+}
 
 .card_01 {
     background-color: #EFB93B;
@@ -385,6 +393,13 @@
     border-radius: 40px;
     padding: 13px 23px;
     transition: all .3s linear;
+}
+.border_btn:hover{
+    color: #FFA73C !important;
+        background: #FFFFFF;
+        border-radius: 40px;
+        padding: 11px 21px;
+        border: 2px solid #FFFFFF;
 }
 
 
